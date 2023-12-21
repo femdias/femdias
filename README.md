@@ -7,15 +7,13 @@ You can click the Preview link to take a look at your changes.
 <h1 align="left">Hi, I'm Felipe Macedo Dias!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=femdias&color=yellow" alt="Profile views" /> </p>
 
-- I'm an Economist from the University of São Paulo (FEA-USP).
+- I'm a Master’s candidate in Economics at the Vancouver School of Economics at the University of British Columbia (UBC). I did my Bachelor in Economics at the University of São Paulo (FEA-USP).
 
-- I'm currently working as an Economist at [Macro Capital](https://www.macrocapital.com.br/).
-
-- Programming helps me a lot in university and at my job, so I share here some coding that I have done (not work related) that can maybe help others.
+- Programming helps me a lot in university, so I share here some coding that I have done that can maybe help others.
 
 - 👀 I’m interested in learning more Python and R for economics and finance.
 
-- 👨‍💻 More at [LinkedIn](https://maykbrito.dev)
+- 👨‍💻 More at [LinkedIn]([https://maykbrito.dev](https://www.linkedin.com/in/felipe-macedo-dias/))
 
 
 <br><br>
