@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👀 I’m interested in learning more Python and R for economics and data science.
 
-- 👨‍💻 More at [LinkedIn]([https://maykbrito.dev](https://www.linkedin.com/in/felipe-macedo-dias/)) an [Twitter](https://x.com/fem_dias)
+- 👨‍💻 More at [LinkedIn](https://www.linkedin.com/in/felipe-macedo-dias/) and [Twitter](https://x.com/fem_dias)
 
 
 <br><br>
