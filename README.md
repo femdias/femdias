@@ -7,13 +7,13 @@ You can click the Preview link to take a look at your changes.
 <h1 align="left">Hi, I'm Felipe Macedo Dias!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=femdias&color=yellow" alt="Profile views" /> </p>
 
-- I’m a Predoctoral Research Fellow at Cornell University’s CIDER and a Master’s candidate in Economics at the University of British Columbia (UBC). I did my Bachelor in Economics at the University of São Paulo (FEA-USP).
+- I’m currently working as a Predoctoral Research Fellow at Cornell University’s CIDER. I hold a Master’s degree in Economics from the University of British Columbia (UBC) and a Bachelor’s degree in Economics from the University of São Paulo (FEA-USP).
 
-- Programming helps me a lot in university, so I share here some coding that I have done that can maybe help others.
+- Programming helped me a lot in university and it is an essencial part of my work as a researcher, so I share here some coding that I have done that can maybe help others.
 
 - 👀 I’m interested in learning more Python and R for economics and data science.
 
-- 👨‍💻 More at [LinkedIn](https://www.linkedin.com/in/felipe-macedo-dias/) and [Twitter](https://x.com/fem_dias)
+- 👨‍💻 More at [LinkedIn](https://www.linkedin.com/in/felipe-macedo-dias/), [Twitter](https://x.com/fem_dias) and [Bluesky](https://bsky.app/profile/femdias.bsky.social).
 
 
 <br><br>
